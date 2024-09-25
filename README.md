@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Ahmed Kamal!
+# 👋 Hello, I'm Ahmed Kamal !
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahmedkamal14)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-kamal-a2a6281a8/)
@@ -28,11 +28,18 @@ I am a Computer Engineering student at Cairo University, passionate about Machin
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
-- 👨🏻‍💻 **Languages**: JavaScript, HTML, CSS, C++, Python
-- 🛠️ **Frameworks and Libraries**: React.js, React Native, Node.js, Tailwind CSS, QT, Expo 
-- 🛠️ **Tools and Technologies**: Git
-- 📚**Databases**: MySQL
+
+- 👨🏻‍💻 **Languages**: C++, Python, JavaScript, HTML, CSS
+- 🛠️ **Frameworks and Libraries**: React.js, React Native, Node.js, Expo, Tailwind CSS, Qt
+- 🛠️ **Tools**: Git
+- 📚 **Databases**: MySQL, MongoDB
+- 🛠️ **ORM/ODM**: Mongoose
+- 🛠️ **Server Framework**: Express.js
+
 
 ---
 
